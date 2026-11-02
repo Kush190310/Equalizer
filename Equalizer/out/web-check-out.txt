@@ -1,2 +1,0 @@
-Equalizer is running at http://localhost:8080
-Keep this terminal open while using the app. Press Ctrl+C to stop.
